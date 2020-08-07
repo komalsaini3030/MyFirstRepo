@@ -20,5 +20,7 @@ class Calculator{
   diff(50,2);
   prod(23,3);
   division(25,3); 
+ System.out.println(" All methods run successfully");
+  
 }
 }
