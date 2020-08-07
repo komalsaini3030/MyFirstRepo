@@ -21,6 +21,7 @@ class Calculator{
   prod(23,3);
   division(25,3); 
  System.out.println(" All methods run successfully");
+   System.out.println(" checking functioning of All methods");
   
 }
 }
