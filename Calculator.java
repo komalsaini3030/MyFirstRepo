@@ -11,14 +11,14 @@ class Calculator{
   public static void prod(int a,int b){
  System.out.println("Product= "+(a*b));
   }
-  public static  void division(int a,int b){
- System.out.println(" Quotient = "+(a/b));
+//   public static  void division(int a,int b){
+//  System.out.println(" Quotient = "+(a/b));
 
- }
+//  }
  public static void main(String args[]){
   add(10,20);
   diff(50,2);
   prod(23,3);
-  division(25,3); 
+  //division(25,3); 
 }
 }
