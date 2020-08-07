@@ -15,4 +15,9 @@ class Calculator{
  System.out.println(" Quotient = "+(a/b));
 
  }
+ public static void main(String args[]){
+  add(10,20);
+  diff(50,2);
+  prod(23,3);
+  divisions(25,3); 
 }
