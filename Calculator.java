@@ -11,7 +11,7 @@ class Calculator{
   public static void prod(int a,int b){
  System.out.println("Product= "+(a*b));
   }
-  publicstatic  void division(int a,int b){
+  public static  void division(int a,int b){
  System.out.println(" Quotient = "+(a/b));
 
  }
