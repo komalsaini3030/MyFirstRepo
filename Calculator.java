@@ -19,6 +19,6 @@ class Calculator{
   add(10,20);
   diff(50,2);
   prod(23,3);
-  divisions(25,3); 
+  division(25,3); 
 }
 }
