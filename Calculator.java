@@ -21,3 +21,4 @@ class Calculator{
   prod(23,3);
   divisions(25,3); 
 }
+}
